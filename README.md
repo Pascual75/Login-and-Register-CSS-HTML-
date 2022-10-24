@@ -6,3 +6,4 @@ It does not include any type of database to save the records, for that I will be
 
 If you need help because you want to change something and you don't know how you can write to me at DC 
 (BabyShark#0085)
+You can also report any problem to DC
